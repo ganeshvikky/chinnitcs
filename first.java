@@ -1,3 +1,1 @@
-hello this is ganesh
-
-second line
+hello this chinni
